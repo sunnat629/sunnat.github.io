@@ -1,0 +1,19 @@
+{
+   "version": "1.0",
+  "name": "Age Calculator",
+  "description": "Here you can see your age in years, months, weeks, days, hours, minutes, seconds ",
+  "launch_path": "https://drive.google.com/#folders/0B8-54xIJQag2UVFBYW40TWVURkE/index.html",
+  "icons": {
+    "16": "/img/mortar-16.png",
+    "48": "/img/mortar-48.png",
+    "60": "/img/mortar-60.png",
+	"128": "/img/mortar-128.png"
+  },
+  
+  "developer": {
+    "name": "S. M. Mohi-Us Sunnat",
+    "url": "https://bdprmr.makes.org/"
+  },
+  
+  "default_locale": "en"
+}
