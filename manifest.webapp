@@ -2,7 +2,7 @@
    "version": "1.0",
   "name": "Age Calculator",
   "description": "Here you can see your age in years, months, weeks, days, hours, minutes, seconds ",
-  "launch_path": "https://drive.google.com/#folders/0B8-54xIJQag2UVFBYW40TWVURkE/index.html",
+  "launch_path": "/index.html",
   "icons": {
     "16": "/img/mortar-16.png",
     "48": "/img/mortar-48.png",
